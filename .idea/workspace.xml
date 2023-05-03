@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="CRM1.0:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6eb9f1a1-1892-4115-91b6-76451d0fce8c" name="Changes" comment="New Features added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomerCRUD/DeleteByCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomerCRUD/DeleteCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomerCRUD/EditCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomerCRUD/SaveCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CustomerCRUD/ShowAllCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FeedBackCRUD/ShowAllFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FeedBackCRUD/addFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/AddDaysbyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/AddIssues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/IssueDoneEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/ShowAllIssuesToAdmin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/deleteissue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/deleteissueByEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/editIssues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/editissuesListdata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/showIssues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IssuesCRUD/showMyCustomerIssuesEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pojos/Feedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pojos/Issues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Servlet/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/CustomerEditForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/CustomerPanel.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/FeedBack.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/FeedbackAdminPanel-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/IssueEditForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/IssueForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/IssueList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/IssuesAdminPanel-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/IssuesEmployeePanel-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/customer_list_EmployeeLogin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomerCRUD/AddCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomerCRUD/AddCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CustomerCRUD/ShowCustomer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CustomerCRUD/ShowCustomer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmployeeCRUD/SaveEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EmployeeCRUD/SaveEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/EmployeeCRUD/ShowEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/EmployeeCRUD/ShowEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pojos/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pojos/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pojos/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pojos/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Servlet/loginSerrvlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Servlet/loginSerrvlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AddC.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AddCustomer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/AddCustomer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AddEmployee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/AddEmployee.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/AllEmployeeList.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/AllEmployeeList.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Customer-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Customer-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Employee-list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Employee-list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/EmployeeEditForm.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/EmployeeEditForm.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/EmployeePanel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/EmployeePanel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/adminpanel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/adminpanel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PEz6LXKiUVxUSDuYrwfqE0jX8t" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" nameIsGenerated="true">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="contextPath" value="/" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="extraClassPath" value="" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.73" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.73-windows-x64/apache-tomcat-9.0.73" />
+          <option name="version" value="9.0.73.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="CRM1.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6eb9f1a1-1892-4115-91b6-76451d0fce8c" name="Changes" comment="" />
+      <created>1683036859345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683036859345</updated>
+      <workItem from="1683036865623" duration="21438000" />
+      <workItem from="1683085524483" duration="6458000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Features added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Features added" />
+  </component>
+</project>
